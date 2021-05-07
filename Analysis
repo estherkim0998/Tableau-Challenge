@@ -1,0 +1,17 @@
+Analysis
+
+Story Breakdown
+Male vs Female Distance
+- The dataset highlights that there are more male bikers than female bikers, however, the majority of the data does not specify a gender. Additionally, the data indicates that female bikers usually travel longer distances on average. 
+Male vs Female Trip Times
+- Males tended to have longer trip times than females.
+Bike Utilizations
+- These graphs demostrate how various bikes had different utilization amounts. It appears that bike id 16613 had the heaviest usage. 
+Most Popular Start/ End Stations
+- Different stations were more popular places to start or end a trip. This map highlights the different locations of each station and increase the size based upon the station's popularity as a starting/ ending point. For example, W 20th St and 11th Ave  appears to be one of the more popular start stations.
+Start Station vs Age
+- This broke down the average age of the bikers in each station. Columbia Heights and Cranberry Street had the highest average age.
+Age vs Trip Duration
+- This graph highlighted the relationship between average trip duration and age. The general trend was that older bikers had shorter trips than younger bikers.
+
+
